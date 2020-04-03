@@ -2,7 +2,7 @@
 require 'pry'
 def snake_it_up(string)
   if string[0] == "s"
-    num = 0 
+    num = 1  
     str = "s"
     while num < 10 do 
     str = str + "s" 
